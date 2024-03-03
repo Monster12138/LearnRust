@@ -7,3 +7,8 @@ edition = "2021"
 
 [dependencies]
 num = '0.4.0'
+futures = "0.3"
+tokio = "1.0"
+mini-redis = "0.4"
+bytes = "1"
+
